@@ -1,0 +1,8 @@
+{
+  "name": "AlibabaAI - B2B Wholesale Assistant",
+  "description": "An intelligent AI assistant specialized in Alibaba-style B2B wholesale, product listing optimization, and global trade workflows.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
